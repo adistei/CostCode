@@ -1,0 +1,3 @@
+test
+add 1 point
+repair some points
